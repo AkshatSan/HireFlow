@@ -1,0 +1,30 @@
+**Job Title:** Analyst
+
+**Location:** Noida
+
+**Experience Required:** 2-5 years
+
+---
+
+**Responsibilities:**
+- Collaborate with the team to build and develop analytical models that drive business insights.
+- Provide data-driven insights and support decision-making processes through thorough analysis.
+- Conduct model evaluations and generate comprehensive reports to communicate findings effectively.
+- Work with various databases to extract, manipulate, and analyze data as needed for projects.
+
+---
+
+**Must-Have Skills:**
+- Proficiency in Python for data analysis and model building.
+- Strong knowledge of SQL for database querying and data manipulation.
+- Familiarity with Langchain for building and deploying language models.
+- Experience in deep learning techniques and frameworks.
+
+---
+
+**Nice-to-Have Skills:**
+- Experience with Langgraph for enhanced data visualization and analysis.
+
+---
+
+We are looking for a proactive and detail-oriented Analyst to join our team in Noida. If you have a passion for data analysis, model building, and deep learning, along with the required technical skills, we encourage you to apply and contribute to our data-driven initiatives.
